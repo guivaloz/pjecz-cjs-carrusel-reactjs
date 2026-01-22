@@ -6,18 +6,18 @@
 
 export const carouselConfig = {
   // Duration each image is displayed (in milliseconds)
-  intervalDuration: 5000, // 5 seconds
-  
+  intervalDuration: 10000, // 10 seconds
+
   // List of images to display in the carousel
   // Add or remove image filenames here
   images: [
-    '/images/image1.svg',
-    '/images/image2.svg',
-    '/images/image3.svg',
-    '/images/image4.svg',
-    '/images/image5.svg',
+    '/images/carrusel-generico-2025.jpg',
+    '/images/carrusel-peritos-convocatoria-2026.jpg',
+    '/images/carrusel-no-a-la-violencia.jpg',
+    '/images/carrusel-justicia-para-ti.jpg',
+    '/images/carrusel-whatsapp-2025.jpg',
   ],
-  
+
   // Screen dimensions
   screenWidth: 2000,
   screenHeight: 417,
