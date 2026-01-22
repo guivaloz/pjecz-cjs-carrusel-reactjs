@@ -1,4 +1,5 @@
 # pjecz-cjs-carrusel-reactjs
+
 Ciudad Judicial de Saltillo: Carrusel de imágenes para la pantalla de la recepción.
 
 ## Descripción
@@ -16,11 +17,13 @@ npm install
 ## Uso
 
 ### Desarrollo
+
 ```bash
 npm run dev
 ```
 
 ### Producción
+
 ```bash
 npm run build
 npm run preview
