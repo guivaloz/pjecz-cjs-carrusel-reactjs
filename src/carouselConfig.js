@@ -15,6 +15,7 @@ export const carouselConfig = {
   // List of images to display in the carousel
   // Add or remove image filenames here
   images: [
+    `${baseUrl}images/carrusel-informe-anual-de-actividades-2025-1.jpg`,
     `${baseUrl}images/carrusel-generico-2025.jpg`,
     `${baseUrl}images/carrusel-peritos-convocatoria-2026.jpg`,
     `${baseUrl}images/carrusel-no-a-la-violencia.jpg`,
